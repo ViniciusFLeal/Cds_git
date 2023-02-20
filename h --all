@@ -1,0 +1,18 @@
+[33m28744e7[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m ajustado conflito de merge
+[33m73f3225[m Ajustado alteraçoes
+[33mbdd58ed[m Adicionado comandos na branch dev
+[33m1425039[m[33m ([m[1;31morigin/main[m[33m)[m main - adicionado comandos de teste
+[33m95c7481[m[33m ([m[1;32mdev[m[33m)[m Adicionado comandos na branch dev
+[33ma500733[m Criado arq notebook de testes
+[33mf18e57e[m removido espaço em branco
+[33m6fb2b82[m add espaço a mais
+[33m84f7c01[m respondido perguntas 9, 13, 14
+[33mc2831c3[m Criado arquivo de respostas das perguntas de negocio - answers.py
+[33m00bb9e5[m Criado arq de carregamento de dados e ajustado arq principal para utilizar novo arq criado
+[33m64b373a[m Estrutura de pastas ajustadas e removido de dados nao utilizados
+[33md681e94[m Arquivo app.py criado e inicializado
+[33m081849a[m Removido arquivo de teste.py
+[33mc62ec2f[m adicionado aquivo de teste.py
+[33meb55276[m Criado arquivo de notebooks/projeto.ipynb
+[33m529c976[m Criado arquivo de licenca
+[33mecb8362[m Primeiro commit
